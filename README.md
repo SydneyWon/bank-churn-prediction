@@ -32,5 +32,5 @@ This notebook builds a machine learning model to predict whether a customer will
 
 ## Contact
 
-Created by Sydney Won
+Created by Sydney Won  
 📧 sydney.b.won@gmail.com 
